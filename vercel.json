@@ -11,7 +11,8 @@
   ],
   "rewrites": [
     { "source": "/sitemap-blog.xml", "destination": "/api/sitemap-blog" },
-    { "source": "/feed.xml", "destination": "/api/feed" }
+    { "source": "/feed.xml", "destination": "/api/feed" },
+    { "source": "/academy", "destination": "/academy.html" }
   ],
   "headers": [
     {
